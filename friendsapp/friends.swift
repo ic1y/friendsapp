@@ -18,7 +18,7 @@ enum zodiac {
 
 
 struct Friend: Identifiable {
-    var id: UUID()
+    var id = UUID()
     
     var name: String
     var age: Int
