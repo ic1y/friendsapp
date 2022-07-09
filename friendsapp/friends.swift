@@ -27,3 +27,8 @@ struct Friend: Identifiable {
     var school: String
 }
 
+var friendsArray = [Friend(name: "Vanisha", age: 13, zodiacSign: .gemini, MBTI: .ENFJ, school: "RGS"),
+                    Friend(name: "Katelyn", age: 14, zodiacSign: .capricorn, MBTI: .INFJ, school: "RGS"),
+                    Friend(name: "Zhiyu", age: 1, zodiacSign: .libra, MBTI: .ESTJ, school: "Sparkletots"),
+                    Friend(name: "James", age: 15, zodiacSign: .scorpio, MBTI: .INTP, school: "CCSS")
+]
