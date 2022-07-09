@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4C05B20428792E04003A434C /* FriendDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C05B20328792E04003A434C /* FriendDetailView.swift */; };
 		58953E21287922A50048E9EB /* friendsappApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58953E20287922A50048E9EB /* friendsappApp.swift */; };
 		58953E23287922A50048E9EB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58953E22287922A50048E9EB /* ContentView.swift */; };
 		58953E25287922A80048E9EB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 58953E24287922A80048E9EB /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4C05B20328792E04003A434C /* FriendDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FriendDetailView.swift; sourceTree = "<group>"; };
 		58953E1D287922A50048E9EB /* friendsapp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = friendsapp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		58953E20287922A50048E9EB /* friendsappApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = friendsappApp.swift; sourceTree = "<group>"; };
 		58953E22287922A50048E9EB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -55,6 +57,7 @@
 			children = (
 				58953E20287922A50048E9EB /* friendsappApp.swift */,
 				58953E22287922A50048E9EB /* ContentView.swift */,
+				4C05B20328792E04003A434C /* FriendDetailView.swift */,
 				87A245B42879244700D05769 /* friends.swift */,
 				58953E24287922A80048E9EB /* Assets.xcassets */,
 				58953E26287922A80048E9EB /* Preview Content */,
@@ -143,6 +146,7 @@
 				58953E23287922A50048E9EB /* ContentView.swift in Sources */,
 				58953E21287922A50048E9EB /* friendsappApp.swift in Sources */,
 				87A245B52879244700D05769 /* friends.swift in Sources */,
+				4C05B20428792E04003A434C /* FriendDetailView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
