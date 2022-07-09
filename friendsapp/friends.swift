@@ -31,5 +31,6 @@ var friendsArray = [Friend(name: "Vanisha", age: 13, zodiacSign: .gemini, MBTI: 
                     Friend(name: "Katelyn", age: 14, zodiacSign: .capricorn, MBTI: .INFJ, school: "RGS"),
                     Friend(name: "Zhiyu", age: 1, zodiacSign: .libra, MBTI: .ESTJ, school: "Sparkletots"),
                     Friend(name: "James", age: 15, zodiacSign: .scorpio, MBTI: .INTP, school: "CCSS"),
-                    Friend(name: "Daniyal", age: 15, zodiacSign: .sagittarius, MBTI: .ISTJ, school: "SPS")
+                    Friend(name: "Daniyal", age: 15, zodiacSign: .sagittarius, MBTI: .ISTJ, school: "SPS"),
+                    Friend(name: "Gilbert", age: 14, zodiacSign: .scorpio, MBTI: .INTP, school: "NCHS")
 ]
